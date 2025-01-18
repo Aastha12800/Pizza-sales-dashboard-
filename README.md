@@ -20,8 +20,8 @@ The following charts and visualizations were created to highlight trends and ins
 4. Percentage of Sales by Pizza Category: A donut chart to understand category contributions to overall sales. ![Donut 1](Donut1.png)
 5. Percentage of Sales by Pizza Size: A donut chart to analyze customer preferences by pizza size. ![Donut 2](Donut2.png)
 6. Total Pizzas Sold by Pizza Category: A funnel chart to compare category-wise performance. ![Funnel](Funnel.png)
-7. Top 5 Best Sellers: Three bar charts (revenue, quantity, and orders) to identify the most popular and high-performing pizzas.
-8. Bottom 5 Worst Sellers: Three bar charts (revenue, quantity, and orders) to highlight underperforming products for improvement or  discontinuation.
+7. Top 5 Best Sellers: Three bar charts (revenue, quantity, and orders) to identify the most popular and high-performing pizzas. ![Top 5](Top5.png)
+8. Bottom 5 Worst Sellers: Three bar charts (revenue, quantity, and orders) to highlight underperforming products for improvement or  discontinuation. ![Bottom 5](Bottom5.png)
 
 # Key Insights Provided:
 1. Orders peak on weekends, especially Friday and Saturday evenings.
