@@ -12,6 +12,7 @@ The dashboard calculates the following metrics to understand business performanc
 3. Total Pizzas Sold: The total number of pizzas sold across all categories.
 4. Total Orders: The total count of orders placed.
 5. Average Pizzas Per Order: The average number of pizzas sold per order, calculated as total pizzas divided by total orders.
+      ![TKPI](KPI.png)
 
 # Visualization Requirements:
 The following charts and visualizations were created to highlight trends and insights:
