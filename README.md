@@ -16,8 +16,10 @@ The dashboard calculates the following metrics to understand business performanc
 # Visualization Requirements:
 The following charts and visualizations were created to highlight trends and insights:
 1. Daily Trend for Total Orders: A bar chart to identify daily patterns and high/low-performing days.
-2. Monthly Trend for Total Orders: A line chart to detect peak periods or months with lower activity.
-3. Percentage of Sales by Pizza Category: A donut chart to understand category contributions to overall sales.
+![Line chart](Linechart.png)
+
+3. Monthly Trend for Total Orders: A line chart to detect peak periods or months with lower activity.
+4. Percentage of Sales by Pizza Category: A donut chart to understand category contributions to overall sales.
 5. Percentage of Sales by Pizza Size: A donut chart to analyze customer preferences by pizza size.
 6. Total Pizzas Sold by Pizza Category: A funnel chart to compare category-wise performance.
 7. Top 5 Best Sellers: Three bar charts (revenue, quantity, and orders) to identify the most popular and high-performing pizzas.
