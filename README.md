@@ -1,6 +1,6 @@
 # Pizza-sales-dashboard-
 An interactive Power BI dashboard analyzing pizza sales data to uncover key business insights, trends, and performance metrics. Includes KPIs, visualizations, and actionable insights to support data-driven decision-making.
-
+- [Pizza_Sales.pbix](Pizza_Sales.pbix)
 This project is a data analysis and visualization initiative aimed at understanding the sales performance of a pizza business. By leveraging Power BI, the project explores key metrics and trends to uncover insights that can drive operational improvements and strategic decision-making. By calculating and visualizing KPIs, the dashboard provides actionable insights into revenue, order trends, and product performance.
 
 The dataset contains pizza sales records, including details like order IDs, pizza categories, sizes, timestamps, and revenue etc. Data cleaning involved handling missing values, removing duplicates, and standardizing formats.
@@ -33,7 +33,7 @@ The following charts and visualizations were created to highlight trends and ins
 6. The Brie Care Pizza ranks lowest in revenue, total quantities, and total orders.
 
 #  How to Run the Project
-1. Download Pizza_Sales.pbix from the repository.
+1. Download - [Pizza_Sales.pbix](Pizza_Sales.pbix) from the repository.
 2. Open the file in Power BI Desktop.
 3. Use slicers and filters to explore the interactive dashboard.
 
